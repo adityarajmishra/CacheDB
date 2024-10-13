@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cachedb.server.AppIntegrationBasicTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-10-13T16:34:11" hostname="RX297RV65C" time="0.027">
+  <properties/>
+  <testcase name="testExample1()" classname="com.cachedb.server.AppIntegrationBasicTest" time="0.016"/>
+  <testcase name="testExample2()" classname="com.cachedb.server.AppIntegrationBasicTest" time="0.002"/>
+  <testcase name="testExample3()" classname="com.cachedb.server.AppIntegrationBasicTest" time="0.004"/>
+  <testcase name="testExample4()" classname="com.cachedb.server.AppIntegrationBasicTest" time="0.003"/>
+  <testcase name="testExample5()" classname="com.cachedb.server.AppIntegrationBasicTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
